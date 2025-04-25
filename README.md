@@ -296,7 +296,7 @@ This page is designed to fulfill **Business Requirement 2**: to predict the sale
 
 ---
 
-### Page 4: Project Hypotheses
+### Page 4: Project Hypotheses and Validation
 
 This page summarizes and validates the project hypotheses developed during the exploratory data analysis.
 
@@ -311,7 +311,7 @@ This page summarizes and validates the project hypotheses developed during the e
 
 ---
 
-### Page 5: ML – Predict Sales Price
+### Page 5: ML Pipeline & Model Evaluation
 
 This page presents the machine learning pipeline and summarizes its key components and results.
 
